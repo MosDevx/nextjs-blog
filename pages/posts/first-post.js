@@ -1,7 +1,6 @@
 import Link from "next/link"
 import Head from "next/head"
 import Script from "next/script"
-import ProfilePic from "../..components/profile-pic"
 import Layout from "../../components/layout"
 export default function  FirstPost(props){
 	return (
